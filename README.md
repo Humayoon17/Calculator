@@ -1,6 +1,11 @@
 # calculator
 
-A new Flutter project.
+A new Flutter project for calculator UI design.
+It is build in Dark and Light mode both.
+
+# Screenshots
+![](screenshot/dark.jpg)
+![](screenshot/light.jpg)
 
 ## Getting Started
 
